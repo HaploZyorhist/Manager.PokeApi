@@ -2,7 +2,6 @@
 $ per level
 $ per iv
 $ for moves that are not natural 
-$ for evolutions if stone required/special criteria
 $ for baby forms
 $ for any gender that has a rate below 50%
 $ for legendary/mythic

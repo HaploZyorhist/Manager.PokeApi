@@ -61,12 +61,6 @@ namespace Manager.PokeApi.Database.Models
         public List<PokemonAbility> Abilities { get; set; }
 
         /// <summary>
-        /// a list of forms this pokemon can take on
-        /// </summary>
-        [JsonPropertyName("forms")]
-        public List<NamedAPIResource> Forms { get; set; }
-
-        /// <summary>
         /// a list of game indices relevent to pokmeon item by generation
         /// </summary>
         [JsonPropertyName("game_indices")]
